@@ -1,0 +1,11 @@
+ Volume in drive D is RECOVERY
+ Volume Serial Number is 1EBE-9702
+
+ Directory of D:\New folder
+
+21/09/2021  01:43 AM    <DIR>          .
+21/09/2021  01:43 AM    <DIR>          ..
+21/09/2021  01:43 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   1,889,402,880 bytes free
+fghfhgjhjkhkjk
